@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a86ffbd8-0c6c-46d0-a43f-9dd4fbf5978f)# Minecraft 角色扮演服务器插件
+# Minecraft 角色扮演服务器插件
 
 在我的世界里实现角色扮演！我们的插件理论支持Minecraft 版本 1.13 到 1.21
 实际测试在1.20.1,1.21的paper及其分支服务端可以正常运行
