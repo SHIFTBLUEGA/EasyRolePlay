@@ -55,9 +55,10 @@
 
 如有任何问题或功能请求，请访问我们的 [GitHub Issues](https://github.com/SHIFTBLUEGA/MinecraftRolePlay/issues) 页面。
 
-## 许可
+## 转载许可
 
-此插件是开源的，可在 [MIT License](LICENSE) 下获得。
+转载到其他社区,需要经过作者允许.
+作者QQ:3199721694
 
 享受你的角色扮演冒险！
 
@@ -117,8 +118,9 @@ This plugin is theoretically compatible with Minecraft versions 1.13 to 1.21, en
 
 For any issues or feature requests, please visit our [GitHub Issues](https://github.com/SHIFTBLUEGA/MinecraftRolePlay/issues) page.
 
-## License
+## Reprint permission
 
-This plugin is open-source and available under the [MIT License](LICENSE).
+Reprinting to other communities requires permission from the author.
+Author QQ: 3199721694
 
 Enjoy your roleplay adventure!
