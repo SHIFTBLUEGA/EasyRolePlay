@@ -7,8 +7,9 @@
 - ChineseSimplified(简体中文)
 
 ## 下载(Download)
-Github:https://github.com/SHIFTBLUEGA/MinecraftRolePlay/releases
-爱发电:https://afdian.com/a/didiao404
+- Github:https://github.com/SHIFTBLUEGA/MinecraftRolePlay/releases
+- 爱发电:https://afdian.com/a/didiao404
+- MineBBS:https://www.minebbs.com/resources/minecraftroleplay-1-13.9546/
 
 ## 功能
 
