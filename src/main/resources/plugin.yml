@@ -1,0 +1,41 @@
+name: MinecraftRolePlay
+version: '${version}'
+main: ml.minecraftroleplay
+api-version: '1.20'
+authors: [LowKey]
+description: A RolePlay Plugin For Minecraft
+commands:
+  mcrp:
+    description: "MinecraftRolePlay Main Command"
+    aliases: rp
+
+  opmcrp:
+    description: "MinecraftRolePlay OP Main Command"
+    permission: minecraftroleplay.main
+    aliases: oprp
+
+  me:
+    description: "第一人称描述"
+
+  do:
+    description: "第三人称描述"
+
+  shout:
+    description: "喊话"
+    aliases: s
+
+  low:
+    description: "低声讲话"
+
+  radio:
+    description: "无线电"
+    aliases: r
+  ooc:
+    description: "发送ooc信息"
+    aliases: b
+
+
+
+
+
+
