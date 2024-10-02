@@ -6,6 +6,9 @@
 ## 语言(Language)
 - ChineseSimplified(简体中文)
 
+## 视频
+- BILIBILI:https://www.bilibili.com/video/BV1Up4ueAETV/
+
 ## 下载(Download)
 - Github:https://github.com/SHIFTBLUEGA/MinecraftRolePlay/releases
 - 爱发电:https://afdian.com/a/didiao404
