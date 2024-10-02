@@ -7,7 +7,7 @@
 - ChineseSimplified(简体中文)
 
 ## 下载(Download)
-Github:
+Github:https://github.com/SHIFTBLUEGA/MinecraftRolePlay/releases
 爱发电:https://afdian.com/a/didiao404
 
 ## 功能
