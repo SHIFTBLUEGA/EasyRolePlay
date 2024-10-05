@@ -3,10 +3,14 @@
 在我的世界里实现角色扮演！我们的插件理论支持Minecraft 版本 1.13 到 1.21
 实际测试在1.20.1,1.21的paper及其分支服务端可以正常运行
 
+## 注意
+- 修改本插件需经过作者允许
+- 作者QQ:3199721694
+
 ## 语言(Language)
 - ChineseSimplified(简体中文)
 
-## 视频
+## 视频(Video)
 - BILIBILI:https://www.bilibili.com/video/BV1Up4ueAETV/
 
 ## 下载(Download)
@@ -76,6 +80,10 @@
 
 Roleplay in Minecraft! Our plugin theory supports Minecraft versions 1.13 to 1.21
 The actual test works normally on the paper and its branch servers in 1.20.1 and 1.21
+
+## Note
+- Modification of this plugin requires the author's permission
+- AuthorQQ:3199721694
 
 ## Features
 
