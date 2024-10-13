@@ -14,9 +14,9 @@
 - BILIBILI:https://www.bilibili.com/video/BV1Up4ueAETV/
 
 ## 下载(Download)
-- Github:https://github.com/SHIFTBLUEGA/MinecraftRolePlay/releases
+- Github:https://github.com/SHIFTBLUEGA/EasyRolePlay/releases
 - 爱发电:https://afdian.com/a/didiao404
-- MineBBS:https://www.minebbs.com/resources/minecraftroleplay-1-13.9546/
+- MineBBS:https://www.minebbs.com/resources/easyroleplay-1-13.9546/
 
 ## 功能
 
