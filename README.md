@@ -5,6 +5,7 @@
 
 ## 注意
 - 修改本插件需经过作者允许
+- 禁止倒卖本插件
 - 作者QQ:3199721694
 
 ## 语言(Language)
@@ -83,6 +84,7 @@ The actual test works normally on the paper and its branch servers in 1.20.1 and
 
 ## Note
 - Modification of this plugin requires the author's permission
+- Reselling this plug-in is prohibited
 - AuthorQQ:3199721694
 
 ## Features
